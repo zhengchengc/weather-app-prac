@@ -1,0 +1,22 @@
+{
+  "name": "weather-app-prac",
+  "version": "1.0.0",
+  "description": "A demo application to practice nodejs skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengchengc/weather-app-prac.git"
+  },
+  "author": "zhengchengc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengchengc/weather-app-prac/issues"
+  },
+  "homepage": "https://github.com/zhengchengc/weather-app-prac#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
